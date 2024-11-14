@@ -2,4 +2,4 @@ const nextConfig = {
   /* config options here */
 }
 
-export default nextConfigmp
+export default nextConfig
